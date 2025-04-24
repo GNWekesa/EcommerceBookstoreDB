@@ -2,7 +2,7 @@ EcommerceBookstoreDB/
 ├── bookstoreecommerceDB.sql
 ├── documentation.txt
 └── myscript.txt
-
+ the repo link https://github.com/GNWekesa/EcommerceBookstoreDB
 Group members:
 1. Gabriella Nekesa Wekesa
 2.
